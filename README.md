@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working as a requirements engineer in the automotive field
+- 🔭 I’m currently working as a system analyst in the automotive field
 - 🌱 I’m currently learning computer engineering, numerical methods, simulation and modelling
 - 👯 I’m looking to collaborate on topics related to mechanical engineering
 <!--
