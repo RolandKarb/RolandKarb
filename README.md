@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working as a systems engineer
+- 🔭 I’m currently working as a system engineer
 - 🌱 I’m currently learning software engineering
 - 👯 I’m looking to collaborate on topics related to engineering
 <!--
